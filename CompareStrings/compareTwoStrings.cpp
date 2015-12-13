@@ -1,7 +1,7 @@
  /***************************
  * Author: Baljot Singh
  * Date created:  10/28/2014
- * Program name:refFun.cpp
+ * Program name:compareTwoStrings.cpp
  * Description: This program will compare the two strings by comparing
  *              every single character one by one.
  * input: Two words as type string from user str1 and str2
