@@ -1,0 +1,210 @@
+Team2 won the match.
+
+Team 2 Points :5.9375
+Team 2 Wins   :5
+Team 2 overall:10.9375
+
+Team 1 Points :4
+Team 1 Wins   :4
+Team 1 overall:8
+
+Bluemen  blu4 of Team 2 
+Total fights  :3
+Total points  :3.9375
+Total wins    :3
+Overall points:4.9375
+
+Bluemen  blu1 of Team 1 
+Total fights  :4
+Total points  :3
+Total wins    :3
+Overall points:3.75
+
+Bluemen  blu5 of Team 2 
+Total fights  :2
+Total points  :1
+Total wins    :1
+Overall points:1.5
+
+Bluemen  blu3 of Team 1 
+Total fights  :2
+Total points  :1
+Total wins    :1
+Overall points:1.5
+
+Bluemen  blu2 of Team 2 
+Total fights  :2
+Total points  :1
+Total wins    :1
+Overall points:1.5
+
+Bluemen  blu5 of Team 1 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Bluemen  blu4 of Team 1 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Bluemen  blu3 of Team 2 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Bluemen  blu2 of Team 1 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Bluemen  blu1 of Team 2 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Team2 won the match.
+
+Team 2 Points :3.8
+Team 2 Wins   :5
+Team 2 overall:8.8
+
+Team 1 Points :4
+Team 1 Wins   :4
+Team 1 overall:8
+
+Bluemen  Blu of Team 2 
+Total fights  :3
+Total points  :2.3
+Total wins    :3
+Overall points:3.3
+
+Shadow  Shad of Team 1 
+Total fights  :3
+Total points  :2
+Total wins    :2
+Overall points:2.66667
+
+Reptile  Reptile of Team 2 
+Total fights  :3
+Total points  :1.5
+Total wins    :2
+Overall points:2.16667
+
+Barbarian  Barb of Team 1 
+Total fights  :2
+Total points  :1
+Total wins    :1
+Overall points:1.5
+
+Goblin  Gob of Team 1 
+Total fights  :2
+Total points  :1
+Total wins    :1
+Overall points:1.5
+
+Shadow  Shad of Team 2 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Bluemen  Blu of Team 1 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Reptile  Reptile of Team 1 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Barbarian  Barb of Team 2 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Goblin  Gob of Team 2 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Team1 won the match.
+
+Team 1 Points :7.8
+Team 1 Wins   :5
+Team 1 overall:12.8
+
+Team 2 Points :1.4
+Team 2 Wins   :3
+Team 2 overall:4.4
+
+Reptile  Reptile of Team 1 
+Total fights  :2
+Total points  :2.5
+Total wins    :2
+Overall points:3.5
+
+Bluemen  Blu of Team 1 
+Total fights  :2
+Total points  :1.8
+Total wins    :2
+Overall points:2.8
+
+Goblin  Gob of Team 1 
+Total fights  :1
+Total points  :2.5
+Total wins    :0
+Overall points:2.5
+
+Reptile  Reptile of Team 2 
+Total fights  :3
+Total points  :1
+Total wins    :2
+Overall points:1.66667
+
+Shadow  Shad of Team 1 
+Total fights  :2
+Total points  :1
+Total wins    :1
+Overall points:1.5
+
+Bluemen  Blu of Team 2 
+Total fights  :2
+Total points  :0.4
+Total wins    :1
+Overall points:0.9
+
+Goblin  Gob of Team 2 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Shadow  Shad of Team 2 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Barbarian  Barb of Team 1 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
+Barbarian  Barb of Team 2 
+Total fights  :1
+Total points  :0
+Total wins    :0
+Overall points:0
+
