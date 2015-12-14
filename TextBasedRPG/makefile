@@ -36,6 +36,9 @@ HEADERS = ${HEADER1}
 PROG1 = rpg
 PROGS = ${PROG1}
 
+# This is the name of compressed file. 
+TAR = RPG.tar.bz2
+
 #####################
 ### BUILD SECTION ###
 #####################
@@ -48,7 +51,7 @@ rpg: ${SRC1} ${HEADER1}
 # Typing 'make tar' in terminal calls this build.
 
 tar:
-	tar cvjf ${TAR} ${SRCS} ${HEADERS} ${DOC} makefile
+	tar cvjf ${TAR} ${SRCS} ${HEADERS} makefile
 
 # Typing 'make clean' calls this build.
 # It's designed to clean up the folder. It will clean all executable and object files in folder
