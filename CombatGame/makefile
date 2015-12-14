@@ -36,10 +36,8 @@ HEADERS = ${HEADER1}
 PROG1 = game
 PROGS = ${PROG1}
 
-DOC = a4report.pdf
-
 # This is the name of compressed file. 
-TAR = cs162_assign4_baljotsingh.tar.bz2
+TAR = CombateGame.tar.bz2
 
 #####################
 ### BUILD SECTION ###
@@ -53,7 +51,7 @@ game: ${SRC1} ${HEADER1}
 # Typing 'make tar' in terminal calls this build.
 
 tar:
-	tar cvjf ${TAR} ${SRCS} ${HEADERS} ${DOC} makefile
+	tar cvjf ${TAR} ${SRCS} ${HEADERS} makefile
 
 # Typing 'make clean' calls this build.
 # It's designed to clean up the folder. It will clean all executable and object files in folder
