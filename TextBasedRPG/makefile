@@ -36,11 +36,6 @@ HEADERS = ${HEADER1}
 PROG1 = rpg
 PROGS = ${PROG1}
 
-DOC = fpReport.pdf
-
-# This is the name of compressed file. 
-TAR = cs162_fp_baljotsingh.tar.bz2
-
 #####################
 ### BUILD SECTION ###
 #####################
